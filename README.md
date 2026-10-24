@@ -117,7 +117,7 @@ This illustrates the difference between finding a relevant source and establishi
 ### Install
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/xiaofan974/agentaudit.git
 cd agentaudit
 uv sync
 ```
