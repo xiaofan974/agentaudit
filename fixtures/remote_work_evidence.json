@@ -1,0 +1,46 @@
+{
+  "query": "What is the company's remote work policy?",
+  "match_count": 5,
+  "matches": [
+    {
+      "id": "exampleco-remote-work:1",
+      "document_id": "exampleco-remote-work",
+      "chunk_index": 1,
+      "source": "exampleco-synthetic-policies",
+      "score": 0.575562358,
+      "text": "Approval. The line manager must approve the schedule in the People portal at least ten working days before it starts. A People Partner reviews any request that would leave a team with fewer than two people on site.\n\nHome office. ExampleCo does not pay a general home-office stipend. Approved hybrid employees may claim documented broadband of up to \u00a330 per month through expenses. Desks and chairs are not reimbursed. Company laptops and monitors used at home remain ExampleCo property. Additional hardware must be ordered under the IT Equipment Policy; a manager cannot approve a laptop from a remote-work request.\n\nCore hours. Remote staff must be available on Slack and email from 10:00 to 16:00 UK time."
+    },
+    {
+      "id": "exampleco-remote-work:0",
+      "document_id": "exampleco-remote-work",
+      "chunk_index": 0,
+      "source": "exampleco-synthetic-policies",
+      "score": 0.550264776,
+      "text": "SYNTHETIC DEMONSTRATION DATA \u2014 ExampleCo is a fictional company created for RAG testing. This is not official Northwind or Maven material.\n\nExampleCo Remote Work Policy (effective 1 March 2026). Applies to full-time employees in the United Kingdom and Ireland.\n\nEligibility. Employees may request a hybrid schedule after completing probation, usually 90 days. Contractors and interns are not eligible. New hires remain office-based until their manager confirms onboarding is complete.\n\nHybrid schedule. Eligible staff may work remotely on Tuesday and Thursday only. Monday, Wednesday, and Friday are mandatory office days at the London or Dublin hub on the employee record. Remote days cannot be moved to another week without written approval."
+    },
+    {
+      "id": "northwind-handbook:0",
+      "document_id": "northwind-handbook",
+      "chunk_index": 0,
+      "source": "northwind-sample",
+      "score": 0.513323188,
+      "text": "Northwind employees may work remotely up to three days per week with manager approval. Employees must be available during core working hours from 10:00 AM to 3:00 PM. Annual leave entitlement is 25 working days per year. Equipment purchases above $500 require approval from the IT department."
+    },
+    {
+      "id": "exampleco-annual-leave:0",
+      "document_id": "exampleco-annual-leave",
+      "chunk_index": 0,
+      "source": "exampleco-synthetic-policies",
+      "score": 0.416539967,
+      "text": "SYNTHETIC DEMONSTRATION DATA \u2014 ExampleCo is a fictional company created for RAG testing. This is not official Northwind or Maven material.\n\nExampleCo Annual Leave Policy (effective 1 January 2026). Covers full-time and part-time employees. Contractors are excluded.\n\nEntitlement. Full-time employees receive 22 days of paid annual leave plus English public holidays observed by ExampleCo. Part-time leave is pro-rated by contracted hours. Up to 5 unused days may be carried into the next calendar year. Any remainder above 5 days is forfeited on 31 January unless People Operations grants a written exception."
+    },
+    {
+      "id": "exampleco-it-equipment:0",
+      "document_id": "exampleco-it-equipment",
+      "chunk_index": 0,
+      "source": "exampleco-synthetic-policies",
+      "score": 0.415214449,
+      "text": "SYNTHETIC DEMONSTRATION DATA \u2014 ExampleCo is a fictional company created for RAG testing. This is not official Northwind or Maven material.\n\nExampleCo IT Equipment Policy (effective 15 February 2026). Covers issuance, replacement, and purchase of ExampleCo-owned devices for office and approved hybrid staff.\n\nStandard kit. Full-time employees receive one company laptop, one headset, and one security key at onboarding. Office staff may use a shared dock and monitor. Hybrid staff may request one 27-inch ExampleCo-standard monitor for home use after 90 days."
+    }
+  ]
+}

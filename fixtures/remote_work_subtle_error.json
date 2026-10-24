@@ -1,0 +1,32 @@
+{
+  "answer": {
+    "answer": "ExampleCo's remote work policy allows eligible full-time employees in the UK and Ireland to request a hybrid schedule after completing a 90-day probation period. Approved hybrid employees are permitted to work remotely on Tuesday and Thursday only; Monday, Wednesday, and Friday are mandatory office days at the London or Dublin hub. Employees must seek written approval if they wish to move remote days to another week. Additionally, remote staff are required to be available on Slack and email from 10:00 to 16:00 UK time. The line manager must approve the schedule at least ten working days before it begins, and any request that would leave a team with fewer than two people on site is reviewed by a People Partner. ExampleCo does not offer a general home-office stipend, but approved employees may claim up to \u00a330 per month for documented broadband expenses.\n\nAny request to move remote days to another week must receive written approval from the employee's line manager.",
+    "confidence": 0.9,
+    "sources_needed": false,
+    "citations": [
+      "exampleco-remote-work:1",
+      "exampleco-remote-work:0"
+    ]
+  },
+  "tokens_used": 1061,
+  "model": "gpt-4o-mini",
+  "latency_ms": 4708,
+  "cost_usd": 0.000249,
+  "attempts": [
+    {
+      "attempt": 1,
+      "step": "structured_output",
+      "ok": true,
+      "message": "Structured output matched the Answer schema.",
+      "raw_output": null,
+      "validation_error": null
+    }
+  ],
+  "retrieved_chunk_ids": [
+    "exampleco-remote-work:1",
+    "exampleco-remote-work:0",
+    "northwind-handbook:0",
+    "exampleco-annual-leave:0",
+    "exampleco-it-equipment:0"
+  ]
+}

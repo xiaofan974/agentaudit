@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+logs/
+.DS_Store
+agent_day3_backup.py
+agent_pre_gate_backup.py
+agent_pre_live_capture_backup.py
+final_gate_pre_error_handling_backup.py
+.env.*
+!.env.example
+agent_pre_day5_cleanup_backup.py
